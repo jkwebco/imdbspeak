@@ -3,7 +3,7 @@ import json
 import pyttsx
 
 
-import pyttsx
+
 engine = pyttsx.init()
 engine.setProperty('rate', 150)
 
